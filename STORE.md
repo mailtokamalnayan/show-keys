@@ -27,9 +27,18 @@ Privacy: Show Keys sends no data. It makes no network requests and has no analyt
 
 **Icon:** icons/icon-128.png
 
-**Screenshots:** 1 to 5 images at 1280 × 800 px. Show the overlay on a real page, with each key style.
+**Screenshots:** Upload the four files in `store/screenshots/`, in this order:
+1. `1-flat-doc.png`
+2. `2-skeuomorphic-code.png`
+3. `3-neon-slides.png`
+4. `4-popup.png`
 
-**Small promo tile:** 440 × 280 px. Optional.
+To capture them again, run this command from the project folder:
+`node store/shoot.mjs . "<path to Chrome for Testing>" store/screenshots`
+
+**Small promo tile (440 × 280):** `store/screenshots/promo-small-440x280.png`
+
+**Marquee promo tile (1400 × 560):** `store/screenshots/promo-marquee-1400x560.png`
 
 ## Privacy tab
 
