@@ -51,7 +51,7 @@ The overlay must work on each page the user records or presents. The script read
 - I do not use or transfer user data for purposes that are unrelated to my item's single purpose.
 - I do not use or transfer user data to determine creditworthiness or for lending purposes.
 
-**Privacy policy URL:** (the public URL of PRIVACY.md)
+**Privacy policy URL:** https://github.com/mailtokamalnayan/show-keys/blob/main/PRIVACY.md
 
 ## Distribution tab
 
